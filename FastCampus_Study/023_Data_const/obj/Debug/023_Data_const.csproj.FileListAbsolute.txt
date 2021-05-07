@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\023_Data_const\bin\Debug\023_Data_const.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\023_Data_const\bin\Debug\023_Data_const.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\023_Data_const\bin\Debug\023_Data_const.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\023_Data_const\obj\Debug\023_Data_const.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\023_Data_const\obj\Debug\023_Data_const.pdb

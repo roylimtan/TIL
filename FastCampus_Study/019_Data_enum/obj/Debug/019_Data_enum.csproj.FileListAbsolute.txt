@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\019_Data_enum\bin\Debug\019_Data_enum.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\019_Data_enum\bin\Debug\019_Data_enum.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\019_Data_enum\bin\Debug\019_Data_enum.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\019_Data_enum\obj\Debug\019_Data_enum.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\019_Data_enum\obj\Debug\019_Data_enum.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\019_Data_enum\obj\Debug\019_Data_enum.pdb
