@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\007_Variable\bin\Debug\007_Variable.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\007_Variable\bin\Debug\007_Variable.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\007_Variable\bin\Debug\007_Variable.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\007_Variable\obj\Debug\007_Variable.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\007_Variable\obj\Debug\007_Variable.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\007_Variable\obj\Debug\007_Variable.pdb

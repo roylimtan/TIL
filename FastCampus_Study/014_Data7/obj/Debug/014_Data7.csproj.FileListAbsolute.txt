@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\014_Data7\bin\Debug\014_Data7.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\014_Data7\bin\Debug\014_Data7.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\014_Data7\bin\Debug\014_Data7.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\014_Data7\obj\Debug\014_Data7.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\014_Data7\obj\Debug\014_Data7.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\014_Data7\obj\Debug\014_Data7.pdb
