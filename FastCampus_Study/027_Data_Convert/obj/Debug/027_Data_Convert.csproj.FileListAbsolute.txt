@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\027_Data_Convert\obj\Debug\027_Data_Convert.pdb

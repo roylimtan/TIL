@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\025_Data_ToString\bin\Debug\025_Data_ToString.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\025_Data_ToString\bin\Debug\025_Data_ToString.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\025_Data_ToString\bin\Debug\025_Data_ToString.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\025_Data_ToString\obj\Debug\025_Data_ToString.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\025_Data_ToString\obj\Debug\025_Data_ToString.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\025_Data_ToString\obj\Debug\025_Data_ToString.pdb

@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\bin\Debug\024_Data_cast.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\bin\Debug\024_Data_cast.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\bin\Debug\024_Data_cast.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\obj\Debug\024_Data_cast.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\obj\Debug\024_Data_cast.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\obj\Debug\024_Data_cast.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\024_Data_cast\obj\Debug\024_Data_cast.pdb

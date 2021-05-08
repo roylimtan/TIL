@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\026_Data_Parse\bin\Debug\026_Data_Parse.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\026_Data_Parse\bin\Debug\026_Data_Parse.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\026_Data_Parse\obj\Debug\026_Data_Parse.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\026_Data_Parse\obj\Debug\026_Data_Parse.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\026_Data_Parse\obj\Debug\026_Data_Parse.pdb

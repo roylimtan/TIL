@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\033_Check\bin\Debug\033_Check.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\033_Check\bin\Debug\033_Check.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\033_Check\bin\Debug\033_Check.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\033_Check\obj\Debug\033_Check.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\033_Check\obj\Debug\033_Check.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\033_Check\obj\Debug\033_Check.pdb
