@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\obj\Debug\036_01_Operator3.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\obj\Debug\036_01_Operator3.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\bin\Debug\036_01_Operator3.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\bin\Debug\036_01_Operator3.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\bin\Debug\036_01_Operator3.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\obj\Debug\036_01_Operator3.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\036_01_Operator3\obj\Debug\036_01_Operator3.pdb

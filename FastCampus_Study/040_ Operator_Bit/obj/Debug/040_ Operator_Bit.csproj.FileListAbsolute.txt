@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\bin\Debug\040_ Operator_Bit.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\bin\Debug\040_ Operator_Bit.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\bin\Debug\040_ Operator_Bit.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\obj\Debug\040_ Operator_Bit.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\obj\Debug\040_ Operator_Bit.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\obj\Debug\040_ Operator_Bit.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\040_ Operator_Bit\obj\Debug\040_ Operator_Bit.pdb

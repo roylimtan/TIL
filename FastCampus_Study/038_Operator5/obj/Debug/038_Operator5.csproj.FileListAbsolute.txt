@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\038_Operator5\bin\Debug\038_Operator5.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\038_Operator5\bin\Debug\038_Operator5.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\038_Operator5\bin\Debug\038_Operator5.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\038_Operator5\obj\Debug\038_Operator5.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\038_Operator5\obj\Debug\038_Operator5.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\038_Operator5\obj\Debug\038_Operator5.pdb
