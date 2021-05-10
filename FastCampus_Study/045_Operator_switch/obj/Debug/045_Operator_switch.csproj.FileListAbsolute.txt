@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\045_Operator_switch\bin\Debug\045_Operator_switch.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\045_Operator_switch\bin\Debug\045_Operator_switch.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\045_Operator_switch\bin\Debug\045_Operator_switch.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\045_Operator_switch\obj\Debug\045_Operator_switch.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\045_Operator_switch\obj\Debug\045_Operator_switch.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\045_Operator_switch\obj\Debug\045_Operator_switch.pdb

@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\051_Operator_while(true)\bin\Debug\051_Operator_while(true).exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\051_Operator_while(true)\bin\Debug\051_Operator_while(true).exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\051_Operator_while(true)\bin\Debug\051_Operator_while(true).pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\051_Operator_while(true)\obj\Debug\051_Operator_while(true).csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\051_Operator_while(true)\obj\Debug\051_Operator_while(true).exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\051_Operator_while(true)\obj\Debug\051_Operator_while(true).pdb

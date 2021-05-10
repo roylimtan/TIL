@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\054_Operator_goto\bin\Debug\054_Operator_goto.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\054_Operator_goto\bin\Debug\054_Operator_goto.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\054_Operator_goto\obj\Debug\054_Operator_goto.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\054_Operator_goto\obj\Debug\054_Operator_goto.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\054_Operator_goto\obj\Debug\054_Operator_goto.pdb

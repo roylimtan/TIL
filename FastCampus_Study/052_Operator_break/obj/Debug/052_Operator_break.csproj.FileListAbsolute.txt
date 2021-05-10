@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\052_Operator_break\bin\Debug\052_Operator_break.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\052_Operator_break\bin\Debug\052_Operator_break.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\052_Operator_break\bin\Debug\052_Operator_break.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\052_Operator_break\obj\Debug\052_Operator_break.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\052_Operator_break\obj\Debug\052_Operator_break.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\052_Operator_break\obj\Debug\052_Operator_break.pdb

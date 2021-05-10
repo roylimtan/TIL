@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\bin\Debug\042_Operetor_Branch.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\bin\Debug\042_Operetor_Branch.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\bin\Debug\042_Operetor_Branch.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\obj\Debug\042_Operetor_Branch.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\obj\Debug\042_Operetor_Branch.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\obj\Debug\042_Operetor_Branch.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\042_Operetor_Branch\obj\Debug\042_Operetor_Branch.pdb
