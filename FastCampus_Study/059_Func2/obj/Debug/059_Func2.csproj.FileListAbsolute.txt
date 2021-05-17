@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\059_Func2\bin\Debug\059_Func2.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\059_Func2\bin\Debug\059_Func2.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\059_Func2\bin\Debug\059_Func2.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\059_Func2\obj\Debug\059_Func2.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\059_Func2\obj\Debug\059_Func2.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\059_Func2\obj\Debug\059_Func2.pdb
