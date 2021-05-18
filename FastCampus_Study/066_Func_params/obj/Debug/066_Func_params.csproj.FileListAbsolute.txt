@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\066_Func_params\bin\Debug\066_Func_params.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\066_Func_params\bin\Debug\066_Func_params.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\066_Func_params\bin\Debug\066_Func_params.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\066_Func_params\obj\Debug\066_Func_params.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\066_Func_params\obj\Debug\066_Func_params.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\066_Func_params\obj\Debug\066_Func_params.pdb

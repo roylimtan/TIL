@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\bin\Debug\CheckPoint02.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\bin\Debug\CheckPoint02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\bin\Debug\CheckPoint02.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\obj\Debug\CheckPoint02.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\obj\Debug\CheckPoint02.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\obj\Debug\CheckPoint02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\CheckPoint02\obj\Debug\CheckPoint02.pdb

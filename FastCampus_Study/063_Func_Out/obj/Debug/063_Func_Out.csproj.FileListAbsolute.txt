@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\bin\Debug\063_Func_Out.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\bin\Debug\063_Func_Out.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\bin\Debug\063_Func_Out.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\obj\Debug\063_Func_Out.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\obj\Debug\063_Func_Out.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\obj\Debug\063_Func_Out.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\063_Func_Out\obj\Debug\063_Func_Out.pdb
