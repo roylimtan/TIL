@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\bin\Debug\069_Array_Multi.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\bin\Debug\069_Array_Multi.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\obj\Debug\069_Array_Multi.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\obj\Debug\069_Array_Multi.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\069_Array_Multi\obj\Debug\069_Array_Multi.pdb

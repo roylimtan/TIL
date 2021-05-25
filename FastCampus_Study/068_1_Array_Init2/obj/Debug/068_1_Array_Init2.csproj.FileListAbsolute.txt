@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\068_1_Array_Init2\bin\Debug\068_1_Array_Init2.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\068_1_Array_Init2\bin\Debug\068_1_Array_Init2.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\068_1_Array_Init2\bin\Debug\068_1_Array_Init2.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.pdb
