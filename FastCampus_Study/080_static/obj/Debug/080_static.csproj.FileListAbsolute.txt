@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\080_static\bin\Debug\080_static.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\080_static\bin\Debug\080_static.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\080_static\bin\Debug\080_static.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\080_static\obj\Debug\080_static.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\080_static\obj\Debug\080_static.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\080_static\obj\Debug\080_static.pdb

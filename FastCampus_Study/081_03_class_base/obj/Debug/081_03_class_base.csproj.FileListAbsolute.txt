@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\081_03_class_base\bin\Debug\081_03_class_base.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\081_03_class_base\bin\Debug\081_03_class_base.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\081_03_class_base\bin\Debug\081_03_class_base.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\081_03_class_base\obj\Debug\081_03_class_base.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\081_03_class_base\obj\Debug\081_03_class_base.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\081_03_class_base\obj\Debug\081_03_class_base.pdb

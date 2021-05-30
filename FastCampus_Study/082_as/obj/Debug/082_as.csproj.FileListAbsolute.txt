@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\bin\Debug\082_as.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\bin\Debug\082_as.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\bin\Debug\082_as.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\obj\Debug\082_as.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\obj\Debug\082_as.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\obj\Debug\082_as.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\082_as\obj\Debug\082_as.pdb

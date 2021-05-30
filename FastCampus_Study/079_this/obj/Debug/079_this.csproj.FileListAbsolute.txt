@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\bin\Debug\079_this.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\bin\Debug\079_this.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\bin\Debug\079_this.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\obj\Debug\079_this.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\obj\Debug\079_this.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\obj\Debug\079_this.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\079_this\obj\Debug\079_this.pdb
