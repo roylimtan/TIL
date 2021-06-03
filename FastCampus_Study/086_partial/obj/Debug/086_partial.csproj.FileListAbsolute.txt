@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\086_partial\bin\Debug\086_partial.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\086_partial\bin\Debug\086_partial.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\086_partial\bin\Debug\086_partial.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\086_partial\obj\Debug\086_partial.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\086_partial\obj\Debug\086_partial.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\086_partial\obj\Debug\086_partial.pdb

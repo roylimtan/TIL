@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\088_struct\bin\Debug\088_struct.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\088_struct\bin\Debug\088_struct.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\088_struct\bin\Debug\088_struct.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\088_struct\obj\Debug\088_struct.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\088_struct\obj\Debug\088_struct.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\088_struct\obj\Debug\088_struct.pdb

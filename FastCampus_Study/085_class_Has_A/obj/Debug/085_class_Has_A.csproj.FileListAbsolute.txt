@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\bin\Debug\085_class_Has_A.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\bin\Debug\085_class_Has_A.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\bin\Debug\085_class_Has_A.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\obj\Debug\085_class_Has_A.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\obj\Debug\085_class_Has_A.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\obj\Debug\085_class_Has_A.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\085_class_Has_A\obj\Debug\085_class_Has_A.pdb
