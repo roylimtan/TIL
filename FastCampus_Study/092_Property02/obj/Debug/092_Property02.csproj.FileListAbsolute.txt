@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\092_Property02\bin\Debug\092_Property02.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\092_Property02\bin\Debug\092_Property02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\092_Property02\bin\Debug\092_Property02.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\092_Property02\obj\Debug\092_Property02.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\092_Property02\obj\Debug\092_Property02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\092_Property02\obj\Debug\092_Property02.pdb

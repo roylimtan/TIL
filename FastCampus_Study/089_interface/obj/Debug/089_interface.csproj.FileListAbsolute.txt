@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\bin\Debug\089_interface.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\bin\Debug\089_interface.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\bin\Debug\089_interface.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\obj\Debug\089_interface.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\obj\Debug\089_interface.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\obj\Debug\089_interface.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\089_interface\obj\Debug\089_interface.pdb
