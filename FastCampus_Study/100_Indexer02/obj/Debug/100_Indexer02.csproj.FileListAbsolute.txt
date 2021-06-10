@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\100_Indexer02\bin\Debug\100_Indexer02.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\100_Indexer02\bin\Debug\100_Indexer02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\100_Indexer02\bin\Debug\100_Indexer02.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\100_Indexer02\obj\Debug\100_Indexer02.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\100_Indexer02\obj\Debug\100_Indexer02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\100_Indexer02\obj\Debug\100_Indexer02.pdb
