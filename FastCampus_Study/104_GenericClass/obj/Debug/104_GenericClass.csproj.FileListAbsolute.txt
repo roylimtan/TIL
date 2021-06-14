@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\104_GenericClass\bin\Debug\104_GenericClass.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\104_GenericClass\bin\Debug\104_GenericClass.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\104_GenericClass\bin\Debug\104_GenericClass.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\104_GenericClass\obj\Debug\104_GenericClass.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\104_GenericClass\obj\Debug\104_GenericClass.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\104_GenericClass\obj\Debug\104_GenericClass.pdb

@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\bin\Debug\103_GeneriFunc.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\bin\Debug\103_GeneriFunc.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\bin\Debug\103_GeneriFunc.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\obj\Debug\103_GeneriFunc.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\obj\Debug\103_GeneriFunc.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\obj\Debug\103_GeneriFunc.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\103_GeneriFunc\obj\Debug\103_GeneriFunc.pdb
