@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\109_Stack\bin\Debug\109_Stack.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\109_Stack\bin\Debug\109_Stack.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\109_Stack\bin\Debug\109_Stack.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\109_Stack\obj\Debug\109_Stack.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\109_Stack\obj\Debug\109_Stack.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\109_Stack\obj\Debug\109_Stack.pdb

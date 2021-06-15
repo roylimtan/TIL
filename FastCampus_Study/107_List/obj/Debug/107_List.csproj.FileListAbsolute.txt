@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\107_List\bin\Debug\107_List.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\107_List\bin\Debug\107_List.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\107_List\bin\Debug\107_List.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\107_List\obj\Debug\107_List.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\107_List\obj\Debug\107_List.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\107_List\obj\Debug\107_List.pdb

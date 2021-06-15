@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\bin\Debug\105_dynamic.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\bin\Debug\105_dynamic.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\bin\Debug\105_dynamic.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\obj\Debug\105_dynamic.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\obj\Debug\105_dynamic.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\obj\Debug\105_dynamic.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\105_dynamic\obj\Debug\105_dynamic.pdb
