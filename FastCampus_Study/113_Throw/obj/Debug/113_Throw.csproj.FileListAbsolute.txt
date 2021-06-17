@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\bin\Debug\113_Throw.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\bin\Debug\113_Throw.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\bin\Debug\113_Throw.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\obj\Debug\113_Throw.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\obj\Debug\113_Throw.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\obj\Debug\113_Throw.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\113_Throw\obj\Debug\113_Throw.pdb

@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\bin\Debug\119_Event.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\bin\Debug\119_Event.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\bin\Debug\119_Event.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\obj\Debug\119_Event.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\obj\Debug\119_Event.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\obj\Debug\119_Event.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\119_Event\obj\Debug\119_Event.pdb
