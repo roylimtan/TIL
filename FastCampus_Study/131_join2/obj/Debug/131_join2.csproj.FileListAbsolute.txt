@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\131_join2\bin\Debug\131_join2.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\131_join2\bin\Debug\131_join2.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\131_join2\bin\Debug\131_join2.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\131_join2\obj\Debug\131_join2.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\131_join2\obj\Debug\131_join2.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\131_join2\obj\Debug\131_join2.pdb

@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\bin\Debug\128_group.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\bin\Debug\128_group.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\bin\Debug\128_group.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\obj\Debug\128_group.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\obj\Debug\128_group.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\obj\Debug\128_group.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\128_group\obj\Debug\128_group.pdb

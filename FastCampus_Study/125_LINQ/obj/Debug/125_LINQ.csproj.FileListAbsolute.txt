@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\bin\Debug\125_LINQ.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\bin\Debug\125_LINQ.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\bin\Debug\125_LINQ.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\obj\Debug\125_LINQ.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\obj\Debug\125_LINQ.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\obj\Debug\125_LINQ.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\125_LINQ\obj\Debug\125_LINQ.pdb

@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\122_FuncRmdba\bin\Debug\122_FuncRmdba.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\122_FuncRmdba\bin\Debug\122_FuncRmdba.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\122_FuncRmdba\bin\Debug\122_FuncRmdba.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\122_FuncRmdba\obj\Debug\122_FuncRmdba.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\122_FuncRmdba\obj\Debug\122_FuncRmdba.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\122_FuncRmdba\obj\Debug\122_FuncRmdba.pdb

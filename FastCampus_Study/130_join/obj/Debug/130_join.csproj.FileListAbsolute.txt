@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\bin\Debug\130_join.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\bin\Debug\130_join.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\bin\Debug\130_join.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\obj\Debug\130_join.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\obj\Debug\130_join.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\obj\Debug\130_join.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\130_join\obj\Debug\130_join.pdb

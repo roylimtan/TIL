@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\124_Func\bin\Debug\124_Func.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\124_Func\bin\Debug\124_Func.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\124_Func\bin\Debug\124_Func.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\124_Func\obj\Debug\124_Func.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\124_Func\obj\Debug\124_Func.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\124_Func\obj\Debug\124_Func.pdb

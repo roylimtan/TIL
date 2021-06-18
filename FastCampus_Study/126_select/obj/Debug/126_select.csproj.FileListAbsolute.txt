@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\126_select\bin\Debug\126_select.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\126_select\bin\Debug\126_select.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\126_select\bin\Debug\126_select.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\126_select\obj\Debug\126_select.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\126_select\obj\Debug\126_select.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\126_select\obj\Debug\126_select.pdb

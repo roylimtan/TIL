@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\bin\Debug\120_Ramdba.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\bin\Debug\120_Ramdba.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\bin\Debug\120_Ramdba.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\obj\Debug\120_Ramdba.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\obj\Debug\120_Ramdba.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\obj\Debug\120_Ramdba.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\120_Ramdba\obj\Debug\120_Ramdba.pdb

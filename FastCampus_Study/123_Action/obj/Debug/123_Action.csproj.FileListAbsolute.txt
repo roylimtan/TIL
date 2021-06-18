@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\123_Action\bin\Debug\123_Action.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\123_Action\bin\Debug\123_Action.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\123_Action\bin\Debug\123_Action.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\123_Action\obj\Debug\123_Action.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\123_Action\obj\Debug\123_Action.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\123_Action\obj\Debug\123_Action.pdb
