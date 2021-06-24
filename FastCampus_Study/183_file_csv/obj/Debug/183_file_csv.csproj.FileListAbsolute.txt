@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\bin\Debug\183_file_csv.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\bin\Debug\183_file_csv.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\bin\Debug\183_file_csv.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\obj\Debug\183_file_csv.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\obj\Debug\183_file_csv.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\obj\Debug\183_file_csv.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\183_file_csv\obj\Debug\183_file_csv.pdb

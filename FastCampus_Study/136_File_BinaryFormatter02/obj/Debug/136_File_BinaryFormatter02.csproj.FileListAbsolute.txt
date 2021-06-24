@@ -1,0 +1,6 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\136_File_BinaryFormatter02\bin\Debug\136_File_BinaryFormatter02.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\136_File_BinaryFormatter02\bin\Debug\136_File_BinaryFormatter02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\136_File_BinaryFormatter02\bin\Debug\136_File_BinaryFormatter02.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\136_File_BinaryFormatter02\obj\Debug\136_File_BinaryFormatter02.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\136_File_BinaryFormatter02\obj\Debug\136_File_BinaryFormatter02.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\136_File_BinaryFormatter02\obj\Debug\136_File_BinaryFormatter02.pdb

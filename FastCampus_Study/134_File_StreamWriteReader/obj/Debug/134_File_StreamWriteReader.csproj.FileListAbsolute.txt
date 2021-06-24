@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\bin\Debug\134_File_StreamWriteReader.exe.config
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\bin\Debug\134_File_StreamWriteReader.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\bin\Debug\134_File_StreamWriteReader.pdb
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.exe
+C:\Users\hyunmin\source\repos\FastCampus_Study_CS\134_File_StreamWriteReader\obj\Debug\134_File_StreamWriteReader.pdb
