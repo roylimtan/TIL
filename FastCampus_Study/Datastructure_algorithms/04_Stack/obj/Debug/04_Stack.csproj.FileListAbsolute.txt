@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\bin\Debug\04_Stack.exe.config
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\bin\Debug\04_Stack.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\bin\Debug\04_Stack.pdb
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\obj\Debug\04_Stack.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\obj\Debug\04_Stack.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\obj\Debug\04_Stack.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\04_Stack\obj\Debug\04_Stack.pdb
