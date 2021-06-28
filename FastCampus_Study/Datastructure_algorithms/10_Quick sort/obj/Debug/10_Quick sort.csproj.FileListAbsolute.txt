@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\bin\Debug\10_Quick sort.exe.config
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\bin\Debug\10_Quick sort.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\bin\Debug\10_Quick sort.pdb
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\obj\Debug\10_Quick sort.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\obj\Debug\10_Quick sort.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\obj\Debug\10_Quick sort.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\10_Quick sort\obj\Debug\10_Quick sort.pdb

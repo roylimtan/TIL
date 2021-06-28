@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\bin\Debug\08_Sort Selection.exe.config
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\bin\Debug\08_Sort Selection.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\bin\Debug\08_Sort Selection.pdb
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\obj\Debug\08_Sort Selection.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\obj\Debug\08_Sort Selection.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\obj\Debug\08_Sort Selection.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\08_Sort Selection\obj\Debug\08_Sort Selection.pdb

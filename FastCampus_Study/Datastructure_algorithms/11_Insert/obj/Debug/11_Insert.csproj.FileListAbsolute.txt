@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\bin\Debug\11_Insert.exe.config
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\bin\Debug\11_Insert.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\bin\Debug\11_Insert.pdb
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\obj\Debug\11_Insert.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\obj\Debug\11_Insert.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\obj\Debug\11_Insert.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\11_Insert\obj\Debug\11_Insert.pdb

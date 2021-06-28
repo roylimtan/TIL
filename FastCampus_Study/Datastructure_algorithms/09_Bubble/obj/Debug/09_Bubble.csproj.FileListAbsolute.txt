@@ -1,0 +1,7 @@
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\bin\Debug\09_Bubble.exe.config
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\bin\Debug\09_Bubble.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\bin\Debug\09_Bubble.pdb
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\obj\Debug\09_Bubble.csprojAssemblyReference.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\obj\Debug\09_Bubble.csproj.CoreCompileInputs.cache
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\obj\Debug\09_Bubble.exe
+C:\Users\hyunmin\source\repos\Data structure and algorithms\09_Bubble\obj\Debug\09_Bubble.pdb
